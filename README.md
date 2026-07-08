@@ -1,4 +1,4 @@
-# Getting-Cleaning-Data
+# Getting & Cleaning Data
 Coursera Peer-Graded Assignment for Getting &amp; Cleaning Data Week 4
 
 ## Getting and cleaning data project
