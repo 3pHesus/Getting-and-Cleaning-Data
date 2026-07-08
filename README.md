@@ -75,3 +75,6 @@ This dataframe contains the average of each variable for each activity and each 
 ### Code Book
 #### Filename = CodeBook.md
 This file describes the variables, data, and all transformations performed to clean the data.
+
+### How To
+You'll need to use Rstudio Version 2026.06.0+242 (2026.06.0+242) or later to execute this workflow.
